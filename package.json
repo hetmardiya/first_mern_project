@@ -1,0 +1,17 @@
+{
+  "name": "first_mern_project",
+  "version": "1.0.0",
+  "description": "MERN STACK ECOMMERCE WEBSITE REACT, REDUX, EXPRESS, NODE, MONGODB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3"
+  }
+}
